@@ -1,5 +1,7 @@
 {
   "name": "whereToEat",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
